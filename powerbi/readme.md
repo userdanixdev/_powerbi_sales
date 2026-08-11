@@ -401,31 +401,6 @@ A preocupação com performance deve ocorrer desde a preparação dos dados até
 # 16. Resultado
 
 O resultado é um relatório analítico desenvolvido para transformar dados operacionais em informações estruturadas para acompanhamento de desempenho e apoio à tomada de decisão.
-
-O processo integra:
-
-```text
-Tratamento dos dados
-        │
-        ▼
-Power Query
-        │
-        ▼
-Modelagem dimensional
-        │
-        ▼
-Relacionamentos
-        │
-        ▼
-DAX
-        │
-        ▼
-Visualização
-        │
-        ▼
-Relatório Power BI
-```
-
 A solução combina preparação de dados, modelagem, cálculos analíticos e visualização em uma única camada de Business Intelligence.
 
 ---
