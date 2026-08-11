@@ -197,7 +197,7 @@ Sempre que aplicável, as tabelas dimensão atuam como origem dos filtros sobre 
 
 ---
 
-# 10. Medidas DAX
+# 9. Medidas DAX
 
 As métricas analíticas do relatório foram desenvolvidas utilizando **DAX**.
 
@@ -230,7 +230,7 @@ DIVIDE((Atual - LY), LY)
 ![Medidas](../powerbi/docs/images/medidas.png)
 ---
 
-# 12. Construção do relatório
+# 10. Construção do relatório
 
 A camada visual foi construída a partir do background feito do **Microsoft PowerPoint**.
 
@@ -253,7 +253,7 @@ O objetivo é permitir que o usuário identifique rapidamente os principais indi
 ![Filtros](../powerbi/docs/images/filtros.png)
 ---
 
-# 13. Páginas do relatório
+# 11. Páginas do relatório
 
 ## `[Home]`
 
@@ -285,7 +285,7 @@ O objetivo é permitir que o usuário identifique rapidamente os principais indi
 
 ---
 
-# 14. Boas práticas aplicadas
+# 12. Boas práticas aplicadas
 
 ## Dados
 
@@ -328,7 +328,7 @@ O objetivo é permitir que o usuário identifique rapidamente os principais indi
 
 ---
 
-# 15. Dados para publicação
+# 13. Dados para publicação
 
 Os dados originais utilizados no desenvolvimento do projeto **não são disponibilizados publicamente**.
 
@@ -366,7 +366,7 @@ A pasta `data/sample` tem, portanto, finalidade de **demonstração, reproduçã
 
 ---
 
-# 16. Segurança e anonimização
+# 14. Segurança e anonimização
 
 A disponibilização pública do projeto considera a necessidade de proteger informações que não devem ser expostas.
 
@@ -381,7 +381,7 @@ Essa abordagem permite apresentar o projeto tecnicamente sem comprometer a confi
 
 ---
 
-# 17. Performance
+# 15. Performance
 
 Durante a construção do modelo foram consideradas práticas voltadas à eficiência e manutenção do Power BI.
 
@@ -398,7 +398,7 @@ A preocupação com performance deve ocorrer desde a preparação dos dados até
 
 ---
 
-# 18. Resultado
+# 16. Resultado
 
 O resultado é um relatório analítico desenvolvido para transformar dados operacionais em informações estruturadas para acompanhamento de desempenho e apoio à tomada de decisão.
 
@@ -430,7 +430,7 @@ A solução combina preparação de dados, modelagem, cálculos analíticos e vi
 
 ---
 
-# 19. Tecnologias utilizadas
+# 17. Tecnologias utilizadas
 
 * **Microsoft Power BI**
 * **Power Query / linguagem M**
@@ -438,7 +438,7 @@ A solução combina preparação de dados, modelagem, cálculos analíticos e vi
 
 ---
 
-# 21. Publicação
+# 18. Publicação
 
 **Repositório:**
 `[LINK DO GITHUB]`
