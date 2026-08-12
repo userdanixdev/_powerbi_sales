@@ -240,7 +240,7 @@ Queda Expressiva nas Devoluções: Um indicador bastante positivo foi a reduçã
 
 Canais de Venda e Perfil de Consumo: A modalidade de loja Física é o principal motor de escoamento da categoria, somando aproximadamente R$ 220,4 milhões frente ao canal online. No perfil demográfico, as vendas apresentam boa paridade, com leve vantagem para o público Masculino (R$ 135 milhões) em relação ao Feminino (R$ 128 milhões).
 
-![Desempenho Celular](../powerbi/docs/images/analise_desempenho_1.png)
+![Desempenho Celular](../project_powerbi_sales/powerbi/docs/images/analise_desempenho_1.png)
 
 ### Clientes
 
