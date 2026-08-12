@@ -220,7 +220,7 @@ A solução foi construída para responder perguntas como:
 "No acumulado do ano, as vendas de 2022 registraram um crescimento de 59,7% em relação a 2021. No entanto, a análise mensal mostra uma forte mudança de comportamento a partir de julho: enquanto o primeiro semestre apresentou altas expressivas (superiores a 200%), o segundo semestre registrou quedas em relação ao ano anterior (LY), com destaque para julho (-20,6%) e oscilações negativas entre -11% e -14% nos meses seguintes."
 
 
-![Desempenho Vendas](../powerbi/docs/images/desempenho_vendas.png)
+![Desempenho Vendas](powerbi/docs/images/desempenho_vendas.png)
 
 
 ### Produtos
