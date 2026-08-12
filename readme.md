@@ -387,9 +387,6 @@ A principal entrega do projeto, portanto, não é apenas a construção de gráf
 
 ### Publicação
 
-**Repositório:**
-https://github.com/userdanixdev/_powerbi_sales
-
 **Relatório publicado:**
 https://app.powerbi.com/view?r=eyJrIjoiZWVlMDMwNzgtZTZlMy00MjVlLTk0OTgtYWEzMGM5ODk0YWZhIiwidCI6ImVkNTJhZDViLTU0YzktNDNlZi04YmNhLThlOWY4Y2U0Zjc1ZiJ9
 

@@ -389,3 +389,6 @@ A solução parte dos dados tratados utilizados durante o desenvolvimento e apli
 Para fins de publicação e versionamento, uma amostra dos dados foi posteriormente preparada e disponibilizada em `data/sample`, permitindo demonstrar a estrutura do projeto sem expor os dados originais.
 
 O projeto demonstra, portanto, não apenas a construção de um dashboard, mas a aplicação de boas práticas de **preparação de dados, modelagem, análise e Business Intelligence**.
+
+**Repositório:**
+https://github.com/userdanixdev/_powerbi_sales
