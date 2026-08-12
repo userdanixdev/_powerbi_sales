@@ -289,11 +289,6 @@ A proposta é substituir análises manuais e fragmentadas por uma visão central
 * **Power Query**
 * **DAX**
 
-## Versionamento:
-
-* **Git**
-* **GitHub**
-
 ---
 
 ## 📂 Estrutura do Projeto
@@ -321,67 +316,6 @@ project_powerbi_sales/
 ```
 
 > Os dados originais contendo informações pessoais ou potencialmente sensíveis não fazem parte do repositório público.
-
----
-
-## 🔐 Privacidade e proteção de dados
-
-O projeto foi estruturado considerando a necessidade de evitar a exposição de informações pessoais.
-
-A base de clientes utilizada no desenvolvimento possui informações cadastrais que podem incluir dados pessoais. Portanto, esses arquivos **não devem ser versionados em um repositório público**.
-
-Para fins de portfólio, a publicação deve utilizar:
-
-* dados anonimizados;
-* dados sintéticos;
-* amostras sem informações pessoais; ou
-* somente a estrutura necessária para reproduzir o projeto.
-
-O objetivo é demonstrar as técnicas utilizadas sem expor informações de clientes.
-
----
-
-# 🚀 Resultado esperado
-
-A implementação da solução permite transformar uma operação baseada em arquivos isolados em uma estrutura de análise centralizada.
-
-### Antes
-
-```text
-Arquivos Excel
-     │
-     ├── Vendas 2020
-     ├── Vendas 2021
-     ├── Vendas 2022
-     ├── Devoluções
-     └── Clientes
-            │
-            ▼
-      Análises manuais
-```
-
-### Depois
-
-```text
-             Fontes de dados
-                    │
-                    ▼
-             Power Query
-                    │
-                    ▼
-             Modelo analítico
-                    │
-                    ▼
-              Medidas DAX
-                    │
-                    ▼
-            Power BI Dashboard
-                    │
-                    ▼
-            Análise e decisão
-```
-
-A principal entrega do projeto, portanto, não é apenas a construção de gráficos, mas a criação de uma **solução de Business Intelligence orientada a um problema de negócio**, permitindo transformar dados operacionais em informações para tomada de decisão.
 
 ---
 
