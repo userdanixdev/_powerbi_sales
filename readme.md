@@ -385,8 +385,20 @@ A principal entrega do projeto, portanto, não é apenas a construção de gráf
 
 ---
 
+### Publicação
+
+**Repositório:**
+https://github.com/userdanixdev/_powerbi_sales
+
+**Relatório publicado:**
+https://app.powerbi.com/view?r=eyJrIjoiZWVlMDMwNzgtZTZlMy00MjVlLTk0OTgtYWEzMGM5ODk0YWZhIiwidCI6ImVkNTJhZDViLTU0YzktNDNlZi04YmNhLThlOWY4Y2U0Zjc1ZiJ9
+
+
+
 ## 👨‍💻 Autor
 
 **Daniel Martins França**
 
 ***Projeto desenvolvido como parte do portfólio de **Business Intelligence e Análise de Dados**, com foco em modelagem, tratamento de dados, criação de indicadores e visualização utilizando Power BI.***
+
+**Linkedin**: https://www.linkedin.com/in/danixdev

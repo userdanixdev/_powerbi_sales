@@ -1,4 +1,4 @@
-# Power BI — Documentação Técnica do Relatório
+# Power BI - Documentação Técnica do Relatório
 
 ## 1. Visão geral
 
@@ -120,8 +120,6 @@ Entre os tratamentos realizados estão:
 
 ### Evidência
 
-> Inserir aqui um screenshot do Power Query mostrando as principais etapas de tratamento.
-
 ![Power Query](../powerbi/docs/images/editor_power_query.png)
 
 ---
@@ -145,10 +143,10 @@ Essa estrutura facilita a utilização de filtros, segmentações e medidas, al�
 
 A tabela fato concentra os registros relacionados aos eventos analisados pelo relatório.
 
-**Tabela fato principal:** `[fVendas]`
-**Tabela fato principal:** `[fDevoluções]`
+- **Tabela fato principal:** `[fVendas]`
+- **Tabela fato principal:** `[fDevoluções]`
 
-**Responsabilidade:** `[Registra os eventos/transações]`
+**Responsabilidade:** `[Registra dados qualitativos e quantitativos]`
 
 ![Tables_fact](../powerbi/docs/images/tables_fact.png)
 
@@ -350,22 +348,7 @@ A pasta `data/sample` tem, portanto, finalidade de **demonstração, reproduçã
 
 ---
 
-# 14. Segurança e anonimização
-
-A disponibilização pública do projeto considera a necessidade de proteger informações que não devem ser expostas.
-
-Dessa forma:
-
-* os arquivos originais não são versionados;
-* informações sensíveis não são disponibilizadas;
-* os dados destinados ao GitHub passam por tratamento adequado;
-* a pasta `data/sample` contém apenas a versão destinada à demonstração pública.
-
-Essa abordagem permite apresentar o projeto tecnicamente sem comprometer a confidencialidade dos dados utilizados durante o desenvolvimento.
-
----
-
-# 15. Performance
+# 14. Performance
 
 Durante a construção do modelo foram consideradas práticas voltadas à eficiência e manutenção do Power BI.
 
@@ -382,29 +365,18 @@ A preocupação com performance deve ocorrer desde a preparação dos dados até
 
 ---
 
-# 16. Resultado
+# 15. Resultado
 
 O resultado é um relatório analítico desenvolvido para transformar dados operacionais em informações estruturadas para acompanhamento de desempenho e apoio à tomada de decisão.
 A solução combina preparação de dados, modelagem, cálculos analíticos e visualização em uma única camada de Business Intelligence.
 
 ---
 
-# 17. Tecnologias utilizadas
+# 16. Tecnologias utilizadas
 
 * **Microsoft Power BI**
 * **Power Query / linguagem M**
 * **DAX**
-
----
-
-# 18. Publicação
-
-**Repositório:**
-https://github.com/userdanixdev/_powerbi_sales
-
-**Relatório publicado:**
-`[LINK DO POWER BI / FABRIC]`
-
 
 ---
 
