@@ -341,25 +341,25 @@ data/
 
 Essa camada contém uma **amostra dos dados tratada e adequada para disponibilização pública**, sem exposição dos dados originais que possam conter informações sensíveis.
 
-### Fluxo de disponibilização
+### Fluxo de disponibilização:
 
 ```text
 Dados originais
       │
       ▼
-Tratamento
+ Tratamento
       │
       ▼
 Dados utilizados no desenvolvimento
       │
       ▼
-Amostragem 
+ Amostragem 
       │
       ▼
-data/sample
+ data/sample
       │
       ▼
-GitHub
+    GitHub
 ```
 
 A pasta `data/sample` tem, portanto, finalidade de **demonstração, reprodução e versionamento público**. Ela não representa necessariamente a fonte original utilizada na construção do relatório.
@@ -416,10 +416,11 @@ A solução combina preparação de dados, modelagem, cálculos analíticos e vi
 # 18. Publicação
 
 **Repositório:**
-`[LINK DO GITHUB]`
+`[https://github.com/userdanixdev/_powerbi_sales]`
 
 **Relatório publicado:**
 `[LINK DO POWER BI / FABRIC]`
+
 
 ---
 

@@ -188,26 +188,6 @@ data/
 
 ***Os arquivos originais permanecem no ambiente local e não devem ser versionados no Git.***
 
-# 🔄 Tratamento dos dados
-
-Antes da construção dos indicadores, os dados passam por processos de preparação e padronização.
-
-Entre as etapas consideradas estão:
-
-* importação das fontes;
-* padronização de nomes e tipos de dados;
-* tratamento de valores nulos;
-* correção de inconsistências;
-* padronização de campos;
-* combinação das bases históricas;
-* relacionamento entre entidades;
-* criação de campos auxiliares;
-* preparação dos dados para análise.
-
-> O objetivo é garantir que o modelo utilizado pelo Power BI possua dados consistentes e adequados para análise.
-
----
-
 # 📈 Indicadores
 
 O dashboard foi desenvolvido para permitir o acompanhamento de indicadores comerciais e análises históricas.
@@ -237,25 +217,42 @@ A solução foi construída para responder perguntas como:
 
 > Qual foi o desempenho das vendas ao longo do período analisado?
 
-### Evolução temporal
+"No acumulado do ano, as vendas de 2022 registraram um crescimento de 59,7% em relação a 2021. No entanto, a análise mensal mostra uma forte mudança de comportamento a partir de julho: enquanto o primeiro semestre apresentou altas expressivas (superiores a 200%), o segundo semestre registrou quedas em relação ao ano anterior (LY), com destaque para julho (-20,6%) e oscilações negativas entre -11% e -14% nos meses seguintes."
 
-> Como as vendas se comportaram entre 2020, 2021 e 2022?
+
+![Desempenho Vendas](../project_powerbi_sales/powerbi/docs/images/desempenho_vendas.png)
+
 
 ### Produtos
 
 > Quais produtos apresentam maior participação nas vendas?
 
+No ano de 2022, o produto com maior participação disparada nas vendas foram os Notebooks, registrando R$ 708,3 milhões em faturamento. Esse desempenho representou um crescimento expressivo de 107,0% em relação ao ano anterior (LY). Na sequência, completam o ranking de maiores vendas os Celulares (R$ 263,1 milhões) e os Monitores (R$ 170,5 milhões).
+
+Análise de Desempenho: Categoria de Celulares
+Com base nos dados filtrados no dashboard para a categoria de Celulares, destacam-se os seguintes insights de negócio:
+
+Retração no Faturamento e Lucro: As vendas totalizaram R$ 263 milhões, o que representa uma queda de 19,9% em comparação com o ano anterior (LY: R$ 328 milhões). O lucro acompanhou essa redução, fechando em R$ 201 milhões (uma queda de 18,66% frente aos R$ 247 milhões do período anterior).
+
+Aumento de Transações vs. Queda no Ticket Médio: Apesar da queda na receita geral, o volume de operações cresceu, com as transações subindo 23,5% (de 5 mil para 6 mil). No entanto, o ticket médio despencou 35,11% (passando de R$ 69,2 mil para R$ 44,9 mil), indicando que a base de clientes comprou mais vezes, mas optou por aparelhos de menor valor unitário.
+
+Queda Expressiva nas Devoluções: Um indicador bastante positivo foi a redução de 31,91% nas devoluções, que caíram de R$ 11 milhões para R$ 7 milhões, refletindo possivelmente um ganho em qualidade ou alinhamento de expectativas do produto entregue.
+
+Canais de Venda e Perfil de Consumo: A modalidade de loja Física é o principal motor de escoamento da categoria, somando aproximadamente R$ 220,4 milhões frente ao canal online. No perfil demográfico, as vendas apresentam boa paridade, com leve vantagem para o público Masculino (R$ 135 milhões) em relação ao Feminino (R$ 128 milhões).
+
+![Desempenho Celular](../project_powerbi_sales/powerbi/docs/images/analise_desempenho_1.png)
+
 ### Clientes
 
-> Quais clientes possuem maior representatividade no resultado comercial?
+> Como as vendas se distribuem entre o público masculino e feminino?
 
-### Devoluções
-
-> Como as devoluções se distribuem ao longo do período?
+Há um equilíbrio muito próximo entre os públicos, com o segmento Masculino gerando R$ 662 milhões e o Feminino alcançando R$ 642 milhões.
 
 ### Gestão
 
 > Quais áreas da operação apresentam oportunidades de melhoria?
+
+Houve alterações no ticket médio e no volume de devoluções. O ticket médio sofreu uma leve retração de -5,56%, fechando em R$ 57,9 mil. Por outro lado, as devoluções aumentaram para R$ 36 milhões, representando um crescimento de 55,78% em relação ao patamar anterior (23 milhões).
 
 ---
 
