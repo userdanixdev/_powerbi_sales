@@ -220,7 +220,7 @@ A solução foi construída para responder perguntas como:
 "No acumulado do ano, as vendas de 2022 registraram um crescimento de 59,7% em relação a 2021. No entanto, a análise mensal mostra uma forte mudança de comportamento a partir de julho: enquanto o primeiro semestre apresentou altas expressivas (superiores a 200%), o segundo semestre registrou quedas em relação ao ano anterior (LY), com destaque para julho (-20,6%) e oscilações negativas entre -11% e -14% nos meses seguintes."
 
 
-![Desempenho Vendas](../project_powerbi_sales/powerbi/docs/images/desempenho_vendas.png)
+![Desempenho Vendas](../powerbi/docs/images/desempenho_vendas.png)
 
 
 ### Produtos
@@ -240,7 +240,7 @@ Queda Expressiva nas Devoluções: Um indicador bastante positivo foi a reduçã
 
 Canais de Venda e Perfil de Consumo: A modalidade de loja Física é o principal motor de escoamento da categoria, somando aproximadamente R$ 220,4 milhões frente ao canal online. No perfil demográfico, as vendas apresentam boa paridade, com leve vantagem para o público Masculino (R$ 135 milhões) em relação ao Feminino (R$ 128 milhões).
 
-![Desempenho Celular](../project_powerbi_sales/powerbi/docs/images/analise_desempenho_1.png)
+![Desempenho Celular](../powerbi/docs/images/analise_desempenho_1.png)
 
 ### Clientes
 

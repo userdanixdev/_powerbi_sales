@@ -234,22 +234,6 @@ DIVIDE((Atual - LY), LY)
 
 A camada visual foi construída a partir do background feito do **Microsoft PowerPoint**.
 
-![Background](../powerbi/docs/images/presentation-2.svg)
-
-Foram considerados aspectos de:
-
-* hierarquia visual;
-* distribuição dos indicadores;
-* escolha adequada dos gráficos;
-* utilização de filtros;
-* consistência visual;
-* facilidade de interpretação;
-* destaque para informações relevantes;
-* redução de elementos visuais desnecessários.
-
-O objetivo é permitir que o usuário identifique rapidamente os principais indicadores e, quando necessário, aprofunde a análise utilizando os filtros e dimensões disponíveis.
-
-
 ![Filtros](../powerbi/docs/images/filtros.png)
 ---
 
@@ -416,7 +400,7 @@ A solução combina preparação de dados, modelagem, cálculos analíticos e vi
 # 18. Publicação
 
 **Repositório:**
-`[https://github.com/userdanixdev/_powerbi_sales]`
+https://github.com/userdanixdev/_powerbi_sales
 
 **Relatório publicado:**
 `[LINK DO POWER BI / FABRIC]`
